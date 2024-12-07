@@ -1,6 +1,6 @@
 # REST Countries API with Color Theme Switcher
 
-![Project Preview](./design/desktop-preview.jpg)
+![Project Preview](./design/)
 
 ## Welcome! 👋
 
@@ -20,7 +20,6 @@ This is a fully functional web application that integrates with the [REST Countr
 - **API**: REST Countries API for fetching real-time country data.
 - **CSS Framework**: Flexbox for layout and responsive design.
 - **Version Control**: Git/GitHub for repository management.
-- **Deployment**: Hosted on [Netlify](https://www.netlify.com/) for easy access.
 
 ## How to Run the Project
 
@@ -64,7 +63,7 @@ This project does not require any specific installation since it uses vanilla Ja
 
 ## Deployment
 
-The project is live and can be accessed [here](https://your-project-link.netlify.app).
+The project is live and can be accessed [here](https://pdineshmurugan.github.io/REST_Countries/).
 
 ## Acknowledgments
 
