@@ -1,6 +1,6 @@
 # REST Countries API with Color Theme Switcher
 
-![Project Preview](./design/)
+![Project Preview](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
